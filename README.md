@@ -10,11 +10,11 @@
 🚀 Currently focused on improving my knowledge in **Python**, **JavaScript**, **React**, **Node.js**, and **Express.js**.<br>
 📚 Eager to learn and adapt to new technologies to stay up-to-date with industry trends.<br>
 🤝 Open to collaborating on interesting projects to expand my experience.
-
+<!--
 #### 🌐 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rikibuldevx@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rafsan0x20rafi)
-
+-->
 ---
 
 ### 💻 Tools & Technologies I'm Familiar With & Learning
