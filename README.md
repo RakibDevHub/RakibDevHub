@@ -11,6 +11,10 @@
 📚 Eager to learn and adapt to new technologies to stay up-to-date with industry trends.<br>
 🤝 Open to collaborating on interesting projects to expand my experience.
 
+#### 🌐 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rikibuldevx@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rafsan0x20rafi)
+
 ---
 
 ### 💻 Tools & Technologies I'm Familiar With & Learning
@@ -43,26 +47,22 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
-
-### 🌐 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rikibuldevx@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rafsan0x20rafi)
 
 ---
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulDevX&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<!-- ### 📊 GitHub Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=RakibulDevX&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RakibulDevX&theme=vue-dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulDevX&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote -->
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
+  
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=RakibulDevX&icon=0&color=0)](https://visitcount.itsvg.in)
 
